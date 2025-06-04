@@ -9,7 +9,12 @@ const projectsData = [
   image: "/timely.png",
   technologies: [
     "Java",
-    "SpringBoot"
+    "Spring Boot",
+    "MongoDB",
+    "JWT",
+    "HTML",
+    "CSS",
+    "JavaScript"
   ],
   liveLink: "https://timely.raniasmit.me/",
   githubLink: "https://github.com/RaniAsmit/Timely"
