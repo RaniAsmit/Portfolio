@@ -25,10 +25,10 @@ const projectsData = [
   {
     title: "Portfolio Website",
     description: "A modern portfolio website built with Next.js 14, featuring dark mode, smooth animations, and responsive design. Showcases my projects and professional experience.",
-    image: "/WormHole.jpg",
+    image: "/logo.png",
     technologies: ["Next.js", "React", "Tailwind CSS", "Framer Motion"],
     liveLink: "https://raniasmit.me",
-    githubLink: "https://github.com/username/portfolio"
+    githubLink: "https://github.com/RaniAsmit/Portfolio"
   },
   {
   title: "Spot Saver",

@@ -49,6 +49,8 @@ export function FloatingDockMain() {
         <IconBrandX className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
         href: "https://x.com/RaniAsmit",
+        target: "_blank",
+
     },
     {
       title: "GitHub",
@@ -56,6 +58,7 @@ export function FloatingDockMain() {
         <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
       href: "https://github.com/RaniAsmit",
+      target: "_blank",
     },
     {
       title: "LinkedIn",
@@ -63,13 +66,17 @@ export function FloatingDockMain() {
         <IconBrandLinkedin className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
       href: "https://www.linkedin.com/in/raniasmit/",
+      target: "_blank",
+
     },
     {
       title: "email",
       icon: (
         <IconMail className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "mailto:raniasmit200204@gmail.com"
+      href: "mailto:raniasmit200204@gmail.com",
+      target: "_blank",
+
     },
     {
       title: `Switch to ${theme === 'dark' ? 'Light' : 'Dark'} Mode`,

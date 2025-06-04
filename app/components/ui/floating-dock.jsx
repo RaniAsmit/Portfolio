@@ -75,6 +75,7 @@ function IconContainer({
   title,
   icon,
   href,
+  target,
   onClick
 }) {
   let ref = useRef(null);
@@ -144,7 +145,7 @@ function IconContainer({
   };
 
   return (
-    <Link href={href} onClick={handleClick}>
+    <Link href={href} target={target} onClick={handleClick}>
       <motion.div
         ref={ref}
         style={{ width, height }}

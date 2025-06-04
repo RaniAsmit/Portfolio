@@ -18,13 +18,13 @@ export default function Head() {
         property="og:description"
         content="Explore projects, blog posts, and open-source work by Rani Asmit."
       />
-      <meta property="og:image" content="https://vatsa.works/logo.png" />
+      <meta property="og:image" content="https://raniasmit.me/logo.png" />
       <meta property="og:type" content="website" />
       <meta property="og:url" content="https://raniasmit.me" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Rani Asmit| Developer Portfolio" />
       <meta name="twitter:description" content="Explore the work and writings of Rani Asmit." />
-      {/* <meta name="twitter:image" content="https://vatsa.works/twitter_profile_image.png" /> */}
+     
 
       <script
         type="application/ld+json"
