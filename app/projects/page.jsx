@@ -11,7 +11,7 @@ const projectsData = [
     "Java",
     "SpringBoot"
   ],
-  //liveLink: "https://tempus.vatsa.works",
+  liveLink: "https://timely.raniasmit.me/",
   githubLink: "https://github.com/RaniAsmit/Timely"
   },
   {
@@ -19,7 +19,6 @@ const projectsData = [
     description: "SheSOS is an innovative mobile application designed to provide immediate assistance to women in emergency situations. Developed using Flutter, the app ensures rapid and reliable access to essential emergency services, enhancing user safety and security.",
     image: "/shesos.avif",
     technologies: ["Flutter", "Dart", "C++","HTML","XML"],
-    //liveLink: "https://www.nextgenscale.in",
     githubLink: "https://github.com/RaniAsmit/SheSOS"
   },
   {
